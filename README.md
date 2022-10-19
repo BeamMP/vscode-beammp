@@ -2,6 +2,9 @@
 
 This is the README for your extension "vscode-beammp". After writing up a brief description, we recommend including the following sections.
 
+## Installation
+Clone this repository into your `<user home>/.vscode/extensions` folder, then start vscode.
+
 ## Features
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
