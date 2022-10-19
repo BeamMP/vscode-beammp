@@ -1,0 +1,20 @@
+{
+  "name": "vscode-beammp",
+  "displayName": "vscode-beammp",
+  "description": "This extension adds BeamMP specific snippets for writing your lua code based resources and mods.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "lua",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}

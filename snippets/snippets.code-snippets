@@ -1,0 +1,8 @@
+{
+  // Server Snippets
+  "MP.DropPlayer": {
+    "prefix": ["DropPlayer"],
+    "body": ["MP.DropPlayer($0)"],
+    "description": "Drop a player from the server using their player ID."
+  }
+}
